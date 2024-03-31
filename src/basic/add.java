@@ -1,4 +1,6 @@
-public class addNumbers {
+package basic;
+
+public class add {
     public static void main(String[] args) {
 
         int res=add(23,54);
@@ -8,5 +10,4 @@ public class addNumbers {
         int result = a+b;
         return result;
     }
-
 }
